@@ -1,5 +1,6 @@
 ### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
-### DATE: 
+### REG NO: 212225230060
+### DATE: 21/11/2026
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ### Description:
 <div align= "justify">Cluster visitor segmentation refers to the process of grouping or categorizing visitors to a website, 
@@ -24,6 +25,12 @@
 
 ```
 ### Output:
+<img width="952" height="772" alt="image" src="https://github.com/user-attachments/assets/8d911b70-cfb7-487f-85b3-97e0760569de" />
+
+<img width="913" height="567" alt="image" src="https://github.com/user-attachments/assets/2b1bf0e5-c271-4754-8076-78ced0b6b433" />
+
+<img width="952" height="537" alt="image" src="https://github.com/user-attachments/assets/2ca53834-2520-4e7b-a3c9-63c36ac613d6" />
+
 
 ### Visualization:
 ```python
@@ -44,6 +51,8 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
 ### Output:
+<img width="568" height="424" alt="image" src="https://github.com/user-attachments/assets/624be337-09cf-40e9-a592-b8cf03abfe2b" />
 
 
 ### Result:
+Successfully implemented Cluster and Visitor Segmentation for Navigation patterns in Python.
